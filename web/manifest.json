@@ -1,11 +1,11 @@
 {
-    "name": "hello_world",
-    "short_name": "hello_world",
+    "name": "Navigation",
+    "short_name": "Navigation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Navigation: explore three screens and pass data between them.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
